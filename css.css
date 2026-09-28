@@ -1,0 +1,41 @@
+.courses {
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.links {
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+h3 {
+    color: blue;
+}
+
+.low {
+    color: rgb(87, 80, 80);
+}
+
+div {
+    margin: 10px;
+}
+
+.fil {
+
+    margin: 15px;
+}
+
+button {
+    padding: 5px;
+    margin: 15px 15px;
+    margin-left: 120px;
+}
+
+.hee {
+    margin: 5px;
+    color: black
+}
